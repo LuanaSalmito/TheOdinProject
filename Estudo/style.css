@@ -1,0 +1,17 @@
+.butt1,
+.butt2{
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman,sans-serif;
+}
+
+.butt1{
+    color: white;
+    background-color: black;
+    box-shadow: gray;
+}
+
+.butt2{
+    color: black;
+    background-color: yellow;
+    box-shadow: yellow;
+}
